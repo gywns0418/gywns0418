@@ -1,13 +1,13 @@
-# 김효준 
+# 김효준
 
 사용자 흐름을 분석해 서비스 구조를 설계하고,  
 안정적인 백엔드 로직 구현에 강점을 가진 개발자입니다.
 
 ---
 
-## Projects
+## 📌 Projects
 
-### M.E (Music Emotion)
+### 🎵 M.E (Music Emotion)
 감정 기반 음악 추천 웹 서비스 (졸업작품)
 
 - 감정 및 장르 기반 음악 추천 기능 구현
@@ -19,7 +19,7 @@ Java, Spring Boot, JSP, Oracle DB
 
 ---
 
-### 경쟁형 적금 웹 서비스
+### 💰 경쟁형 적금 웹 서비스
 랭킹·보상 기반 금융 서비스 (팀 프로젝트)
 
 - 자동이체 기반 적금 상품 서비스 구현
@@ -36,14 +36,14 @@ Java, Spring Boot, MyBatis, Oracle DB, Toss API
 
 ---
 
-### NeGO
+### 🛒 NeGO
 중고거래 웹 플랫폼 (팀 프로젝트)
 
 - 중고나라·번개장터·당근마켓 벤치마킹 프로젝트
 - 상품 등록·조회·거래·채팅·후기·관리자 기능 구현
 - 실제 중고거래 서비스 흐름을 기반으로 구조 설계
 
-My Role
+My Role  
 - 팀장으로서 전체 서비스 구조 및 데이터 흐름 설계
 - 비회원 / 회원 / 관리자 권한 구조 설계
 - ERD 기반 데이터베이스 설계 주도
@@ -56,7 +56,7 @@ Java, Spring, MyBatis, JSP, Oracle DB, WebSocket, Chart.js
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 Java  
 Spring Boot / Spring  
